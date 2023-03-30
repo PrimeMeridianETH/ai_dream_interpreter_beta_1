@@ -7,7 +7,7 @@ import streamlit as st
 # Set the OpenAI secret key
 openai.api_key = st.secrets['pass']
 
-st.header('Somnium Interpres')
+st.header('Somnium Interpreta')
 st.subheader('current version : beta 0.1')
 
 # Set the if, else loop including prompt
